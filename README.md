@@ -11,3 +11,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammar111&theme=buefy&layout=compact" />
 </a>
 </div>
+
+## Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]<a>@DinWhy</a>
