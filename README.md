@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm T1REDAF</h1>
-<h3 align="center">A passionate backend developer on Java</h3>
+<h3 align="center">I am passionate backender on Java</h3>
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
 ---
 
