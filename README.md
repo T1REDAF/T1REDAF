@@ -6,6 +6,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1REDAF&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1REDAF&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+<a href="https://github.com/syedammar111">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=syedammar111&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammar111&theme=buefy&layout=compact" />
+</a>
 </div>
