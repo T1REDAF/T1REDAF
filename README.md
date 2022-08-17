@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T1REDAF</h1>
 <h3 align="center">I'am backend developer on Java</h3>
-<img align="right"  height="100px" src="https://www.creatopy.com/blog/wp-content/uploads/2018/07/classic-dancing-banana-gif.gif" alt="yuebaix" />
+<img  height="100px" src="https://www.creatopy.com/blog/wp-content/uploads/2018/07/classic-dancing-banana-gif.gif" alt="yuebaix" />
 
 ---
 
