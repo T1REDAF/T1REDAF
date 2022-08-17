@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm T1REDAF</h1>
 <h3 align="center">I'm backend developer on Java</h3>
-<img align="center"  height="220px" src="https://acegif.com/wp-content/gifs/starfall-gif-46.gif" alt="yuebaix" />
+<img align="center"  height="320px" width="400px" src="https://acegif.com/wp-content/gifs/starfall-gif-46.gif" alt="yuebaix" />
 
 ---
 
